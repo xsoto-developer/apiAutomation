@@ -1,4 +1,4 @@
-->221016195721
+->221016225257
 Request method:	POST
 -Request URI:	https://todo.ly/api/items.json
 Proxy:			<none>
@@ -12,23 +12,23 @@
 Cookies:		<none>
 Multiparts:		<none>
 Body:
-,{"Content":"newItemFactory->221016195721"}
+,{"Content":"newItemFactory->221016225257"}
 HTTP/1.1 200 OK
 4Cache-Control: no-cache, no-store, must-revalidate
 Pragma: no-cache
 /Content-Type: application/json; charset=utf-8
 Expires: -1
 Server: Microsoft-IIS/8.0
-XSet-Cookie: ASP.NET_SessionId=yt5tjwpyoxpupqfvxeb03bbv; path=/; HttpOnly; SameSite=Lax
+XSet-Cookie: ASP.NET_SessionId=uupl14un1oex4fvdqlmfryn0; path=/; HttpOnly; SameSite=Lax
 X-AspNetMvc-Version: 2.0
 X-AspNet-Version: 4.0.30319
 X-Powered-By: ASP.NET
-%Date: Sun, 16 Oct 2022 23:57:13 GMT
+%Date: Mon, 17 Oct 2022 02:52:53 GMT
 Content-Length: 554
 
 {
-    "Id": 11067708,
-/    "Content": "newItemFactory->221016195721",
+    "Id": 11067843,
+/    "Content": "newItemFactory->221016225257",
     "ItemType": 1,
     "Checked": false,
     "ProjectId": null,
@@ -41,14 +41,14 @@
     "Recurrence": null,
     "ItemOrder": null,
     "Priority": 4,
-3    "LastSyncedDateTime": "/Date(1665964634586)/",
+3    "LastSyncedDateTime": "/Date(1665975173244)/",
     "Children": [
 	        
     ],
     "DueDateTime": null,
-,    "CreatedDate": "/Date(1665964634570)/",
+,    "CreatedDate": "/Date(1665975173230)/",
     "LastCheckedDate": null,
-0    "LastUpdatedDate": "/Date(1665964634570)/",
+0    "LastUpdatedDate": "/Date(1665975173230)/",
     "Deleted": false,
     "Notes": "",
     "InHistory": false,
@@ -57,7 +57,7 @@
     "OwnerId": 705831
 }
 Request method:	PUT
-6Request URI:	https://todo.ly/api/items/11067708.json
+6Request URI:	https://todo.ly/api/items/11067843.json
 Proxy:			<none>
 Request params:	<none>
 Query params:	<none>
@@ -69,23 +69,23 @@
 Cookies:		<none>
 Multiparts:		<none>
 Body:
-/{"Content":"updateItemFactory->221016195721"}
+/{"Content":"updateItemFactory->221016225257"}
 HTTP/1.1 200 OK
 4Cache-Control: no-cache, no-store, must-revalidate
 Pragma: no-cache
 /Content-Type: application/json; charset=utf-8
 Expires: -1
 Server: Microsoft-IIS/8.0
-XSet-Cookie: ASP.NET_SessionId=2pxl0pt24itpske0hl0j5xoi; path=/; HttpOnly; SameSite=Lax
+XSet-Cookie: ASP.NET_SessionId=ttn13rs2wkwgpdml23zioujp; path=/; HttpOnly; SameSite=Lax
 X-AspNetMvc-Version: 2.0
 X-AspNet-Version: 4.0.30319
 X-Powered-By: ASP.NET
-%Date: Sun, 16 Oct 2022 23:57:17 GMT
+%Date: Mon, 17 Oct 2022 02:52:56 GMT
 Content-Length: 557
 
 {
-    "Id": 11067708,
-2    "Content": "updateItemFactory->221016195721",
+    "Id": 11067843,
+2    "Content": "updateItemFactory->221016225257",
     "ItemType": 1,
     "Checked": false,
     "ProjectId": null,
@@ -98,14 +98,14 @@
     "Recurrence": null,
     "ItemOrder": null,
     "Priority": 4,
-3    "LastSyncedDateTime": "/Date(1665964637410)/",
+3    "LastSyncedDateTime": "/Date(1665975176489)/",
     "Children": [
 	        
     ],
     "DueDateTime": null,
-,    "CreatedDate": "/Date(1665964634570)/",
+,    "CreatedDate": "/Date(1665975173230)/",
     "LastCheckedDate": null,
-0    "LastUpdatedDate": "/Date(1665964637393)/",
+0    "LastUpdatedDate": "/Date(1665975176457)/",
     "Deleted": false,
     "Notes": "",
     "InHistory": false,
@@ -114,7 +114,7 @@
     "OwnerId": 705831
 }
 Request method:	GET
-6Request URI:	https://todo.ly/api/items/11067708.json
+6Request URI:	https://todo.ly/api/items/11067843.json
 Proxy:			<none>
 Request params:	<none>
 Query params:	<none>
@@ -131,16 +131,16 @@
 /Content-Type: application/json; charset=utf-8
 Expires: -1
 Server: Microsoft-IIS/8.0
-XSet-Cookie: ASP.NET_SessionId=jq0grkjvuzkgo2p50zdaw5dq; path=/; HttpOnly; SameSite=Lax
+XSet-Cookie: ASP.NET_SessionId=u5pwfugafoqepxr0xpx1ahno; path=/; HttpOnly; SameSite=Lax
 X-AspNetMvc-Version: 2.0
 X-AspNet-Version: 4.0.30319
 X-Powered-By: ASP.NET
-%Date: Sun, 16 Oct 2022 23:57:18 GMT
+%Date: Mon, 17 Oct 2022 02:52:57 GMT
 Content-Length: 557
 
 {
-    "Id": 11067708,
-2    "Content": "updateItemFactory->221016195721",
+    "Id": 11067843,
+2    "Content": "updateItemFactory->221016225257",
     "ItemType": 1,
     "Checked": false,
     "ProjectId": null,
@@ -153,15 +153,70 @@
     "Recurrence": null,
     "ItemOrder": null,
     "Priority": 4,
-3    "LastSyncedDateTime": "/Date(1665964638782)/",
+3    "LastSyncedDateTime": "/Date(1665975177721)/",
     "Children": [
 	        
     ],
     "DueDateTime": null,
-,    "CreatedDate": "/Date(1665964634570)/",
+,    "CreatedDate": "/Date(1665975173230)/",
     "LastCheckedDate": null,
-0    "LastUpdatedDate": "/Date(1665964637393)/",
+0    "LastUpdatedDate": "/Date(1665975176457)/",
     "Deleted": false,
+    "Notes": "",
+    "InHistory": false,
+"    "SyncClientCreationId": null,
+    "DueTimeSpecified": true,
+    "OwnerId": 705831
+}
+Request method:	DELETE
+6Request URI:	https://todo.ly/api/items/11067843.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+LHeaders:		Authorization=Basic eHNvdG9kZXZlbG9wZXJAZ21haWwuY29tOjEyMzQ1Njc4
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=xez4nzgfbgpw3kvsyy5yyiqx; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Mon, 17 Oct 2022 02:52:59 GMT
+Content-Length: 556
+
+{
+    "Id": 11067843,
+2    "Content": "updateItemFactory->221016225257",
+    "ItemType": 1,
+    "Checked": false,
+    "ProjectId": null,
+    "ParentId": null,
+    "Path": "",
+    "Collapsed": false,
+    "DateString": null,
+    "DateStringPriority": 0,
+    "DueDate": "",
+    "Recurrence": null,
+    "ItemOrder": null,
+    "Priority": 4,
+3    "LastSyncedDateTime": "/Date(1665975179140)/",
+    "Children": [
+	        
+    ],
+    "DueDateTime": null,
+,    "CreatedDate": "/Date(1665975173230)/",
+    "LastCheckedDate": null,
+0    "LastUpdatedDate": "/Date(1665975179140)/",
+    "Deleted": true,
     "Notes": "",
     "InHistory": false,
 "    "SyncClientCreationId": null,
